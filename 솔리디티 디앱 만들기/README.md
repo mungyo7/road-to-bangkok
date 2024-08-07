@@ -21,7 +21,7 @@
 | Simple Payment | 미션 | buymeacoffee 메시지, 송금 디앱 만들기 | [Simple Payment](https://github.com/Ludium-Official/solidity-dapp-mission/tree/simple-payment) |
 | Staking | 미션 | 예치, 이자율 정산이 가능한 스테이킹 디앱 만들기 | [Staking](https://github.com/Ludium-Official/solidity-dapp-mission/tree/staking) |
 | Token Vendor | 미션 | 토큰 민팅, 전송 자판기 만들기 | [Token Vendor](https://github.com/Ludium-Official/solidity-dapp-mission/tree/token-vendor) |
-| Oracle | 미션 | 외부 데이터 오라클 디앱 만들기 | 제작 중 |
+| Oracle | 미션 | 외부 데이터 오라클 디앱 만들기 | [Oracle Part1](https://github.com/Ludium-Official/solidity-dapp-mission/tree/oracle-part1) [Oracle Part2](https://github.com/Ludium-Official/solidity-dapp-mission/tree/oracle-part2) [Oracle Part3](https://github.com/Ludium-Official/solidity-dapp-mission/tree/oracle-part3) |
 | Dynamic NFT | 미션 | 온체인 SVG 기반 다이나믹 NFT 디앱 만들기 | [Dynamic NFT](https://github.com/Ludium-Official/solidity-dapp-mission/tree/dynamic-nft) |
 | Dice Game | 미션 | 온체인 RNG 기반 주사위 게임 만들기 | [Dice Game](https://github.com/Ludium-Official/solidity-dapp-mission/tree/dice-game) |
 | Token Swap | 미션 | 토큰 교환이 가능한 탈중앙화 거래소 만들기 | [Token Swap](https://github.com/Ludium-Official/solidity-dapp-mission/tree/token-swap) |

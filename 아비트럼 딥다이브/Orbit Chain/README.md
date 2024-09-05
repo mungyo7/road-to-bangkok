@@ -35,43 +35,43 @@ https://orbit.arbitrum.io/
 <br/>
 
 Launch on testnet을 클릭한다. <br/>
-![img.png](images/img.png)
+![img.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img.png)
 
 <br/>
 
 설명을 보면, 최소 1.0 Arbitrum Sepolia ETH가 팔요하다고 나온다. 지갑을 연결한 뒤, Next를 클릭한다. <br/>
-![img_1.png](images/img_1.png)
+![img_1.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_1.png)
 
 <br/>
 
 Rollup 방식으로 선택 후, Next 클릭한다. <br/>
-![img_2.png](images/img_2.png)
+![img_2.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_2.png)
 
 <br/>
 
 
 기본값으로 놔두고 Deploy를 클릭한다. (값에 대한 설명은 서론에 기입한 아비트럼 Docs 참고) <br/>
-![img_3.png](images/img_3.png)
+![img_3.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_3.png)
 
 <br/>
 
 
 가스비 확인 후, 컨펌해준다.
 
-![img_4.png](images/img_4.png)
+![img_4.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_4.png)
 
-![img_5.png](images/img_5.png)
+![img_5.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_5.png)
 
 <br/>
 
 컨펌을 하고나면 아래처럼 생성된 체인에 대한 정보가 나온다. Download zip files를 눌러 json이 담긴 zip 파일을 저장하자. 다운로드 받았다면 Next 클릭해주자.
-![img_6.png](images/img_6.png)
+![img_6.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_6.png)
 
 <br/>
 
 
 이제 로컬에서 배포를 해보도록 한다. <br/>
-![img_7.png](images/img_7.png)
+![img_7.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_7.png)
 
 <br/>
 
@@ -104,12 +104,12 @@ docker compose up -d
 <br/>
 
 여러가지 의존성을 설치하며 시간이 좀 걸린다. <br/>
-![img_13.png](images/img_13.png)
+![img_13.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_8.png)
 
 <br/>
 
 Docker가 올라가고 나면 http://localhost:8449 에 RPC와 http://localhost 에 BlockScout 탐색기 인스턴스가 있는 노드가 시작된다. <br/>
-![img_9.png](images/img_9.png) <br/>
+![img_9.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_13.png) <br/>
 
 <br/>
 
@@ -184,64 +184,64 @@ docker compose logs -f nitro
 
 이제다시 오르빗 사이트에서 Next 버튼을 클릭한다.
 
-![img_14.png](images/img_14.png)
+![img_14.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_14.png)
 
 <br/>
 
 배포는 완료되었고, 선택적인 단계로 메인넷에 배포하고자하는 경우 아래의 서비스들 이용해야 한다.
-![img_10.png](images/img_10.png)
+![img_10.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_10.png)
 
 
 
 <br/>
 
 다시 Manage your chain에 들어온다.
-![img_15.png](images/img_15.png)
+![img_15.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_15.png)
 
 <br/>
 
 outputInfo.json 정보를 참고해 커스텀 체인을 등록할 수 있다. 기입했다면 Add new chain을 클릭하면 된다.
 
-![img_16.png](images/img_16.png)
+![img_16.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_16.png)
 
 <br/>
 
 그리고 브릿지로 들어와서 Add Custom Orbit Chain을 클릭해보자. outuputinfo.json 파일의 내용을 붙여 넣은 후 Add Chain을 클릭해주자. <br/>
-![img_17.png](images/img_17.png)
+![img_17.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_17.png)
 
 그럼 아래와 같이 등록이 된다. <br/>
-![img_18.png](images/img_18.png)
+![img_18.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_18.png)
 
 <br/>
 
 만든 체인에 토큰을 다시 L2로 가지고 올 수 있게 된다. <br/>
-![img_19.png](images/img_19.png)
+![img_19.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_19.png)
 
-![img_20.png](images/img_20.png)
+![img_20.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_20.png)
 
 
 2시간 정도 소요된다고 한다. Continue를 클릭한다.
-![img_23.png](images/img_23.png)
+![img_23.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_23.png)
 
-![img_24.png](images/img_24.png)
+![img_24.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_24.png)
 
 <br/>
 
 펜딩 상태를 확인한다.
-![img_25.png](images/img_25.png)
+![img_25.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_25.png)
 
 다시 localhost로 들어가보자. <br/>
-![img_11.png](images/img_11.png)
+![img_11.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_11.png)
 
 <br/>
 
 
 localhost에서 방금 발생한 트랜잭션도 확인할 수 있다.
-![img_26.png](images/img_26.png)
+![img_26.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_26.png)
 
-![img_27.png](images/img_27.png)
+![img_27.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_27.png)
 
 <br/>
 
 지갑 네트워크에도 등록이 되는 것을 확인할 수 있다. <br/>
-![img_28.png](images/img_28.png)
+![img_28.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Orbit%20Chain/images/img_28.png)

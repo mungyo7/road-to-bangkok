@@ -31,11 +31,11 @@ git clone https://github.com/sashaaldrick/greeter-arb.git // 자신의 폴더에
 cd greeter-arb // 클론된 폴더로 이동.
 ```
 
-![alt text](images/cloneArb.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/cloneArb.png)
 
 - greeter-arb 폴더에 .env파일을 만들고, .env.sample 폴더에 있는 내용을 복사한 후 .env.sample 삭제
 
-  ![alt text](images/envmake.png)
+  ![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/envmake.png)
 
 ## 폴더의 구조
 
@@ -85,10 +85,10 @@ npm install // 혹은 npm i
 - 이더리움 세폴리아 faucet : https://www.alchemy.com/faucets/ethereum-sepolia
 
 - 아비트럼 세폴리아 faucet : https://www.alchemy.com/faucets/arbitrum-sepolia
-  ![alt text](images/image.png)
+  ![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/image.png)
 
 - 자신의 지갑 주소를 복사하고 이더리움 세폴리아와 아비트럼 세폴리아에서 각각 테스트넷 이더를 받는다.
-  ![alt text](images/metamask.png)
+  ![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/metamask.png)
 
 - 최근 테스트넷 봇이나 남용되는 것을 막기위해 테스트넷 이더를 받으려면 자신의 실제 이더리움이 메인넷에 0.001 ETH개 있어야 한다.
 
@@ -103,7 +103,7 @@ npm i dotenv
 - exec.js 파일의 16번째 const { BigNumber } = require("@ethersproject/bignumber");
 - 아랫줄에 require("dotenv").config(); 코드를 추가.
 
-  ![alt text](images/dotenv.png)
+  ![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/dotenv.png)
 
 ##### .env 파일 내부 요소
 
@@ -133,11 +133,11 @@ L1RPC=""
 
 - alchemy 주소에 들어가서 Create a new app 을 한다.
 
-  ![alt text](images/createAlc.png)
+  ![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/createAlc.png)
 
 - 자신이 사용할 app 이름을 설정.
 
-![alt text](images/create.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/create.png)
 
 - app을 만들게 되면 overview에 자신의 app이 뜨는데, overview 옆에 Network를 누르고, Ethereum api, Arbitrum api를 복사해서 자신의 L1rpc, L2rpc 에 입력한다.
 
@@ -153,21 +153,21 @@ L1RPC="알케미에서 이더리움 rpc 복사해서 입력"
 
 ```
 
-![alt text](images/rpcsettings.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/rpcsettings.png)
 
 ### 6. DEVNET_PRIVKEY 설정
 
 - metamask의 우측 상단의 점 표시를 클릭.
 
-![alt text](images/meta.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/meta.png)
 
 - 계정 세부 정보 클릭.
 
-![alt text](images/metasets.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/metasets.png)
 
 - 개인키 표시 클릭 및 개인키 복사 0x...형태
 
-![alt text](images/setmeta.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/setmeta.png)
 
 ```
 # 자신의 개발용 프라이빗 키 "0x..." 형식으로 입력
@@ -197,7 +197,7 @@ L1RPC="알케미에서 이더리움 rpc 복사해서 입력"
 npm run greeter
 ```
 
-![alt text](images/runGreeter.png)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L1ToL2/images/runGreeter.png)
 
 - 위와 같은 그림이 나오면 정상적으로 L1 -> L2 메시징 동작
 

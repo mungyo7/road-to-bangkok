@@ -1,6 +1,6 @@
 ## Orbit Chain
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image6.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image6.png)
 
 Arbitrum Orbit은 Arbitrum 기술을 활용해 맞춤형 전용 체인을 만들 수 있는 혁신적인 솔루션이다. 이는 Layer 2(L2) 또는 Layer 3(L3) 체인으로 구성할 수 있으며, 사용자가 처리량, 프라이버시, 가스 토큰, 거버넌스 등 다양한 요소를 직접 설정할 수 있는 유연성을 제공한다. Orbit의 주요 목적은 이더리움의 블록 공간 수요 증가로 인한 네트워크 혼잡과 비용 문제를 해결하는 것이다. 이를 위해 Rollup과 AnyTrust 프로토콜을 통해 이더리움의 부하를 효과적으로 분산시킨다.
 

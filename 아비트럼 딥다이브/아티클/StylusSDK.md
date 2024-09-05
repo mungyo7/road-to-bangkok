@@ -6,7 +6,7 @@
 
 스타일러스의 도입으로 예상되는 주요 이점은 두 가지로 요약할 수 있다.([출처:아비트럼-레이어2 선두를 유지하기 위한 노력](https://medium.com/despread-creative/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC-arbitrum-%EB%A0%88%EC%9D%B4%EC%96%B4-2-%EC%84%A0%EB%91%90%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5-dc27a4fa2a73) )
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image7.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image7.png)
 
 첫째, 개발자 생태계의 대폭적인 확장이다. 스타일러스는 솔리디티 외에도 러스트, C++과 같이 훨씬 더 광범위하게 사용되는 프로그래밍 언어를 지원한다. Statista의 2023년 데이터에 따르면, 솔리디티 사용자는 전체 개발자의 1.33%에 불과한 반면, 러스트는 13.05%, C언어는 19.34%, C++은 22.42%의 개발자가 사용하고 있다. 이는 스타일러스가 블록체인 개발에 참여할 수 있는 개발자 풀을 크게 확대할 수 있음을 시사한다.
 
@@ -27,7 +27,7 @@
 ### Geth와 WAVM
 
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image1.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image1.png)
 
 스타일러스 SDK의 구동 원리를 이해하기 위해서는 Arbitrum 시스템의 핵심 구성 요소인 Geth와 WAVM의 역할을 파악하는 것이 중요하다. Geth(go-ethereum)는 Arbitrum Nitro 시스템의 기반이 되는 이더리움의 핵심 노드 소프트웨어로, Nitro는 이를 중심으로 "Geth 샌드위치" 구조를 형성하고 있다. 이 구조는 세 개의 주요 레이어로 구성되는데, 가장 아래에 위치한 Geth Core 레이어는 EVM 계약 실행과 상태 데이터 구조 유지를 담당한다. 중간에 위치한 ArbOS 레이어는 Layer 2에 특화된 기능을 제공하며, Sequencer 데이터 처리, 가스 비용 계산, 수수료 수집, 크로스체인 브릿지 등을 지원한다. 최상위에 있는 Node Functionality 레이어는 클라이언트 연결과 RPC 요청 처리 등 이더리움 호환 블록체인 노드 운영에 필요한 고수준 기능을 제공한다. 이러한 구조를 통해 Arbitrum은 이더리움의 안정성과 호환성을 유지하면서도 Layer 2의 특화된 기능을 제공할 수 있게 된다.
 
@@ -91,7 +91,7 @@
 ## 1. Rust 설치
 
 - [Rust 설치](https://www.rust-lang.org/tools/install)
-  ![Install Rust](https://github.com/Ludium-Official/road-to-bangkok/blob/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Stylus/image-1.png)
+  ![Install Rust](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Stylus/image-1.png)
   rust 설치를 한 후 windows 프로그램 유저는 wsl 환경에서 아래 명령어를 추가한다.
   ```wsl
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh

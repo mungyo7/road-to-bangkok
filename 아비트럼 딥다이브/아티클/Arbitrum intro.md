@@ -31,7 +31,7 @@
 
 Inside Arbitrum Nitro detail in this [link ](https://docs.arbitrum.io/how-arbitrum-works/inside-arbitrum-nitro)
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image3.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image3.png)
 
 *이더리움 메인넷 내 발생하는 가스비와 레이어 2의 가스비 비교(Source :
 l2fees.info)*
@@ -120,7 +120,7 @@ RBlock은 블록 번호, 이전 블록 번호, 생성된 L2 블록 수, 처리�
 
 롤업 체인의 이해를 돕기 위한 예시는 아래와 같다.
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image2.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image2.png)
 보통 롤업 체인은 두 부분으로 나뉜다. 왼쪽에는 이미 확인된 RBlock(블록
 번호 91\~94)들이 있는데, 이는 레이어 1 컨트랙트가 인정하고 기록한 체인의
 역사다. 이 중 가장 최근에 확인된 RBlock 94을 \"최신 확인 RBlock\"이라고
@@ -131,7 +131,7 @@ RBlock은 블록 번호, 이전 블록 번호, 생성된 L2 블록 수, 처리�
 있다는 것이다. 이 덕분에 밸리데이터들은 이전 블록의 확인을 기다리지 않고도
 계속해서 새 블록을 제안할 수 있어, 체인의 효율성을 크게 높인다.
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image4.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image4.png)
 
 하지만 악의적인 밸리데이터들이 있으면 체인 상태가 복잡해질 수 있다. 예를
 들어, 위 이미지처럼 RBlock 101이 적합한 블록이라고 판단되지 않는다면
@@ -161,7 +161,7 @@ Search "Rollup Chain" for details in this [link ](https://docs.arbitrum.io/how-a
 그 원리를 쉽게 이해할 수 있다. 이 과정을 통해 아비트럼이 어떻게
 이더리움의 확장성 문제를 해결하면서도 보안성을 유지하는지 알 수 있다.
 
-![alt text](<아비트럼 개발자 교육 모듈/Images/image5.png>)
+![alt text](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/%EC%95%84%ED%8B%B0%ED%81%B4/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B5%90%EC%9C%A1%20%EB%AA%A8%EB%93%88/Images/image5.png)
 
 트랜잭션은 시퀀서에서 시작된다. 시퀀서는 트랜잭션의 순서를 결정하는
 중요한 역할을 하며, 클라이언트가 트랜잭션을 보내면 시퀀서는 이를 두 가지

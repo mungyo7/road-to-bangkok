@@ -359,40 +359,40 @@ yarn start
 
 http://localhost:3000/ 에 접속하여 지갑을 연결해주자.
 
-![img.png](images/img.png)
+![img.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_1.png)
 
 
-![img_1.png](images/img_1.png)
+![img_1.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_2.png)
 
-![img_2.png](images/img_2.png)
+![img_2.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_3.png)
 
-![img_3.png](images/img_3.png)
+![img_3.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_3.png)
 
 <br/>
 연결이 되면 아래와 같이 정보가 나온다.
 
-![img_4.png](images/img_4.png)
+![img_4.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_4.png)
 
 <br/>
 
 Voting 버튼을 클릭해 이동한다.
 
-![img_5.png](images/img_5.png)
+![img_5.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_5.png)
 
 <br/>
 
 Select 버튼을 눌러 후보자를 선택하고 Submit Vote를 클릭하면 컨펌 창이 뜨게 된다. 컨펌을 눌러보자.
 
-![img_6.png](images/img_6.png)
+![img_6.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_6.png)
 
 <br/>
 
 아래와 같이 성공 메시지가 뜨고, check out transaction 버튼을 클릭해 보면,
 
-![img_7.png](images/img_7.png)
+![img_7.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_7.png)
 
 <br/>
 
 해당 트랜잭션을 확인할 수 있다.
 
-![img_8.png](images/img_8.png)
+![img_8.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/Arbitrum%20DApp/images/img_8.png)

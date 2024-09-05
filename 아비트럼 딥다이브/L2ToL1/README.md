@@ -185,15 +185,15 @@ https://www.alchemy.com/best/rpc-node-providers
 <br/>
 
 Create new app 클릭.
-![img.png](images/img.png)
+![img.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img.png)
 
 <br/>
 
 
-![img_1.png](images/img_1.png)
+![img_1.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img_1.png)
 
 L1RPC에 이더를, L2RPC에 아비트럼을 넣으면 되고, sepolia로 설정 하여야한다. 
-![img_2.png](images/img_2.png)
+![img_2.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img_2.png)
 
 가스비의 경우 SepoliaETH, Arbitrum SepoliaETH가 있어야한다.
 
@@ -205,12 +205,12 @@ npm run outbox-exec --txhash 0xmytxnhash
 <br/>
 
 L2->L1 트랜잭션 해쉬값은 https://sepolia.arbiscan.io/txsExit 의 L2 Tx Hash에서 확인할 수 있다.
-![img_5.png](images/img_5.png)
+![img_5.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img_5.png)
 
 <br/>
 
 아래의 트랜잭션 값을 넣어 실행해보았다. (https://sepolia.arbiscan.io/tx/0xcedd3d9c61723b51e12e181c7be65d87f38fb0037bbc5b9a16fd7fb6c00bc84f)
-![img_3.png](images/img_3.png)
+![img_3.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img_3.png)
 
 <br/>
 
@@ -298,5 +298,5 @@ Done! Your transaction is executed {
 이더리움 새폴리아 확인한 결과.
 https://sepolia.etherscan.io/
 
-![img_4.png](images/img_4.png)
+![img_4.png](https://github.com/Ludium-Official/road-to-bangkok/raw/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C/L2ToL1/images/img_4.png)
 
